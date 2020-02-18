@@ -1,8 +1,6 @@
 # online-compiler-using-php
 online compiler web application which compiles c,c++,java,python programs in server and shows output
 
-Github Static page link https://patil92.github.io/online-compiler-using-php/
-
 The Users Write code online and compile it.
 
 This web Application was developed by Abhishek S Patil
